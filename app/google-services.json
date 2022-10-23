@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197767329570",
+    "project_id": "testdocs-fdd94",
+    "storage_bucket": "testdocs-fdd94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197767329570:android:c85cbbcc80e738758f977b",
+        "android_client_info": {
+          "package_name": "eu.example.swearwordjar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197767329570-hcs2jm53a398t6o2hrrj16opb912arue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfrWxgKQ_Bn1Vw4TIFwgfOQYfyBPH3Hms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197767329570-hcs2jm53a398t6o2hrrj16opb912arue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
